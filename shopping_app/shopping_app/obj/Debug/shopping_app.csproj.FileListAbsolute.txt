@@ -1,0 +1,351 @@
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.exe
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.pdb
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.csprojResolveAssemblyReference.cache
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Form1.resources
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Properties.Resources.resources
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.csproj.GenerateResource.Cache
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.exe.licenses
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.exe
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.pdb
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Mvvm.v15.2.dll
+C:\Users\G627\Documents\Visual Studio 2015\Projects\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Mvvm.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.exe
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.pdb
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.exe
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.pdb
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Data.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Mvvm.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Data.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Mvvm.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.csprojResolveAssemblyReference.cache
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Form1.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Properties.Resources.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.csproj.GenerateResource.Cache
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.exe.licenses
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Form_INFO.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Classify.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Goods.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.exe
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.pdb
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.exe
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.pdb
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Data.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Mvvm.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Mvvm.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.csprojResolveAssemblyReference.cache
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Classify.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Form1.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Form_INFO.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Goods.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Properties.Resources.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.csproj.GenerateResource.Cache
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.exe.licenses
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.exe.config
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\MySql.Data.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\Google.Protobuf.dll
+E:\github_repo\shopping_platform\shopping_app\shopping_app\bin\Debug\MySql.Data.xml
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Login.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Register.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.State.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.exe.config
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\MySql.Data.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\Google.Protobuf.dll
+E:\Github\shopping_platform\shopping_app\shopping_app\bin\Debug\MySql.Data.xml
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Login.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Register.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.State.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.SPXX.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.GWC.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Cart_Unit.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.test.resources
+C:\Users\G627\Desktop\shopping_platform\shopping_app\shopping_app\bin\Debug\shopping_app.exe.config
+C:\Users\G627\Desktop\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.exe
+C:\Users\G627\Desktop\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.pdb
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Order_Container.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Order_Form.resources
+E:\github_repo\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Order_INFO.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.SPXX.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.GWC.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Cart_Unit.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Order_Container.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Order_Form.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Order_INFO.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.test.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Add_Goods.resources
+E:\Github\shopping_platform\shopping_app\shopping_app\obj\Debug\shopping_app.Goods_Manage.resources
